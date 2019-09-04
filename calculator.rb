@@ -5,4 +5,4 @@
 #def second_number(num)
  # num
 #end
-first_number
+first_number = 4
