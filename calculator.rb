@@ -1,7 +1,7 @@
-def first_number(1)
+def first_number()
  end
  
-def second_number(4)
+def second_number()
 end
 
 def sum(first_number + second_number)
