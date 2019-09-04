@@ -1,9 +1,8 @@
-def first_number()
+def first_number(num)
+  num
  end
  
-def second_number()
+def second_number(num)
+  num
 end
 
-def sum(first_number + second_number)
-  
-end
